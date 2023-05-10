@@ -41,10 +41,6 @@ ii)	#Insertion Sort
 ![image](https://github.com/yogeshrao05/Sorting-Algorithm/assets/122008288/c41d980e-6260-41aa-8cc6-c0c8e2723dcb)
 
 
-![image](https://github.com/yogeshrao05/Sorting-Algorithm/assets/122008288/3cc80b53-e018-47aa-8ebe-5defb881ce00)
-
-
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
 
