@@ -37,7 +37,8 @@ ii)	#Insertion Sort
 ```
 
 ## Output:
-```![image](https://github.com/yogeshrao05/Sorting-Algorithm/assets/122008288/c41d980e-6260-41aa-8cc6-c0c8e2723dcb)
+```
+![image](https://github.com/yogeshrao05/Sorting-Algorithm/assets/122008288/c41d980e-6260-41aa-8cc6-c0c8e2723dcb)
 
 
 ## Result:
